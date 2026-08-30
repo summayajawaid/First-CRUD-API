@@ -59,16 +59,3 @@ notes-crud-api/
 │
 └── ...
 
-# Structure Overview
-notes-crud-api
-│
-├── Application
-│   └── main.py
-│
-├── Dependencies
-│   └── requirements.txt
-│
-└── Documentation
-    └── README.md
-│
-└── ...
