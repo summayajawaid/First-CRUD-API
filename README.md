@@ -58,6 +58,17 @@ notes-crud-api/
 ├── README.md              # Project documentation
 │
 └── ...
-ion
+
+##Structure Overview
+notes-crud-api
+│
+├── Application
+│   └── main.py
+│
+├── Dependencies
+│   └── requirements.txt
+│
+└── Documentation
+    └── README.md
 │
 └── ...
