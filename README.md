@@ -19,7 +19,7 @@ The **Notes CRUD API** is a RESTful backend application built using **FastAPI**.
 
 It allows users to create, read, update, and delete notes efficiently. The API also provides filtering options and basic statistics for managing notes.
 
-This project was built to practice backend development concepts and REST API architecture using Python.
+This project was built to practice backend development concepts and REST API architecture using Python
 
 ---
 
